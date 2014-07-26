@@ -1,0 +1,1 @@
+String.prototype.titleize=function(){var e=this;return e=e.replace(/^\s*/,""),e=e.replace(/_/g," "),e=e.replace(/^[a-z]|[^\s][A-Z]/g,function(e,r){return 0===r?e.toUpperCase():e.substr(0,1)+" "+e.substr(1).toUpperCase()})};
