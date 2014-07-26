@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Root>
+	<YawAxis>
+		<Binding Device="{NoDevice}" Key="" />
+		<Inverted Value="1" />
+		<Deadzone Value="0.00000000" />
+	</YawAxis>
+	<YawLeftButton>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</YawLeftButton>
+	<YawRightButton>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</YawRightButton>
+	<YawToRollMode Value="Bindings_YawIntoRollNone" />
+	<YawToRollSensitivity Value="0.40000000" />
+	<YawToRollButton>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+		<ToggleOn Value="0" />
+	</YawToRollButton>
+	<RollAxis>
+		<Binding Device="ThrustMasterWarthogJoystick" Key="Joy_XAxis" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</RollAxis>
+	<RollLeftButton>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</RollLeftButton>
+	<RollRightButton>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</RollRightButton>
+	<PitchAxis>
+		<Binding Device="ThrustMasterWarthogJoystick" Key="Joy_YAxis" />
+		<Inverted Value="1" />
+		<Deadzone Value="0.00000000" />
+	</PitchAxis>
+	<PitchUpButton>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</PitchUpButton>
+	<PitchDownButton>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</PitchDownButton>
+	<MouseMode Value="" />
+	<MouseSensitivity Value="1.00000000" />
+	<MouseDeadzone Value="0.04742857" />
+	<LateralThrust>
+		<Binding Device="{NoDevice}" Key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</LateralThrust>
+	<LeftThrustButton>
+		<Primary Device="ThrustMasterWarthogThrottle" Key="Joy_POV1Left" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</LeftThrustButton>
+	<RightThrustButton>
+		<Primary Device="ThrustMasterWarthogThrottle" Key="Joy_POV1Right" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</RightThrustButton>
+	<VerticalThrust>
+		<Binding Device="{NoDevice}" Key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</VerticalThrust>
+	<UpThrustButton>
+		<Primary Device="ThrustMasterWarthogThrottle" Key="Joy_POV1Up" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</UpThrustButton>
+	<DownThrustButton>
+		<Primary Device="ThrustMasterWarthogThrottle" Key="Joy_POV1Down" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</DownThrustButton>
+	<AheadThrust>
+		<Binding Device="{NoDevice}" Key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</AheadThrust>
+	<ForwardThrustButton>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</ForwardThrustButton>
+	<BackwardThrustButton>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</BackwardThrustButton>
+	<ThrottleRange Value="Bindings_ThrottleForewardOnly" />
+	<ThrottleAxis>
+		<Binding Device="ThrustMasterWarthogThrottle" Key="Joy_ZAxis" />
+		<Inverted Value="1" />
+		<Deadzone Value="0.00000000" />
+	</ThrottleAxis>
+	<ToggleReverseThrottleInput>
+		<Primary Device="ThrustMasterWarthogThrottle" Key="Joy_7" />
+		<Secondary Device="{NoDevice}" Key="" />
+		<ToggleOn Value="0" />
+	</ToggleReverseThrottleInput>
+	<ThrottleIncrement Value="0.00000000" />
+	<ForwardKey>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</ForwardKey>
+	<BackwardKey>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</BackwardKey>
+	<SetSpeedMinus100>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</SetSpeedMinus100>
+	<SetSpeedMinus75>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</SetSpeedMinus75>
+	<SetSpeedMinus50>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</SetSpeedMinus50>
+	<SetSpeedMinus25>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</SetSpeedMinus25>
+	<SetSpeedZero>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</SetSpeedZero>
+	<SetSpeed25>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</SetSpeed25>
+	<SetSpeed50>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</SetSpeed50>
+	<SetSpeed75>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</SetSpeed75>
+	<SetSpeed100>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</SetSpeed100>
+	<YawAxis_Landing>
+		<Binding Device="{NoDevice}" Key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</YawAxis_Landing>
+	<YawLeftButton_Landing>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</YawLeftButton_Landing>
+	<YawRightButton_Landing>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</YawRightButton_Landing>
+	<YawToRollMode_Landing Value="" />
+	<PitchAxis_Landing>
+		<Binding Device="{NoDevice}" Key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</PitchAxis_Landing>
+	<PitchUpButton_Landing>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</PitchUpButton_Landing>
+	<PitchDownButton_Landing>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</PitchDownButton_Landing>
+	<RollAxis_Landing>
+		<Binding Device="{NoDevice}" Key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</RollAxis_Landing>
+	<RollLeftButton_Landing>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</RollLeftButton_Landing>
+	<RollRightButton_Landing>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</RollRightButton_Landing>
+	<LateralThrust_Landing>
+		<Binding Device="{NoDevice}" Key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</LateralThrust_Landing>
+	<LeftThrustButton_Landing>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</LeftThrustButton_Landing>
+	<RightThrustButton_Landing>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</RightThrustButton_Landing>
+	<VerticalThrust_Landing>
+		<Binding Device="{NoDevice}" Key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</VerticalThrust_Landing>
+	<UpThrustButton_Landing>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</UpThrustButton_Landing>
+	<DownThrustButton_Landing>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</DownThrustButton_Landing>
+	<AheadThrust_Landing>
+		<Binding Device="{NoDevice}" Key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</AheadThrust_Landing>
+	<ForwardThrustButton_Landing>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</ForwardThrustButton_Landing>
+	<BackwardThrustButton_Landing>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</BackwardThrustButton_Landing>
+	<ToggleFlightAssist>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_4" />
+		<Secondary Device="{NoDevice}" Key="" />
+		<ToggleOn Value="0" />
+	</ToggleFlightAssist>
+	<UseBoostJuice>
+		<Primary Device="ThrustMasterWarthogThrottle" Key="Joy_2" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</UseBoostJuice>
+	<SelectTarget>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_5" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</SelectTarget>
+	<CycleNextTarget>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_POV1Right" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CycleNextTarget>
+	<CyclePreviousTarget>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_POV1Left" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CyclePreviousTarget>
+	<SelectHighestThreat>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</SelectHighestThreat>
+	<CycleNextHostileTarget>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_POV1Up" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CycleNextHostileTarget>
+	<CyclePreviousHostileTarget>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_POV1Down" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CyclePreviousHostileTarget>
+	<CycleNextSubsystem>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_11" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CycleNextSubsystem>
+	<CyclePreviousSubsystem>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_12" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CyclePreviousSubsystem>
+	<GunsightSystem Value="Bindings_TrailingGunsights" />
+	<PrimaryFire>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_1" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</PrimaryFire>
+	<SecondaryFire>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_19" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</SecondaryFire>
+	<CycleFireGroupNext>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_8" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CycleFireGroupNext>
+	<CycleFireGroupPrevious>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_10" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CycleFireGroupPrevious>
+	<DeployHardpointToggle>
+		<Primary Device="ThrustMasterWarthogThrottle" Key="Joy_21" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</DeployHardpointToggle>
+	<DeployHardpointsOnFire Value="1" />
+	<ToggleButtonUpInput>
+		<Primary Device="ThrustMasterWarthogThrottle" Key="Joy_24" />
+		<Secondary Device="{NoDevice}" Key="" />
+		<ToggleOn Value="0" />
+	</ToggleButtonUpInput>
+	<DeployHeatSink>
+		<Primary Device="ThrustMasterWarthogThrottle" Key="Joy_15" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</DeployHeatSink>
+	<ShipSpotLightToggle>
+		<Primary Device="ThrustMasterWarthogThrottle" Key="Joy_26" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</ShipSpotLightToggle>
+	<RadarIncreaseRange>
+		<Primary Device="ThrustMasterWarthogThrottle" Key="Joy_7" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</RadarIncreaseRange>
+	<RadarDecreaseRange>
+		<Primary Device="ThrustMasterWarthogThrottle" Key="Joy_9" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</RadarDecreaseRange>
+	<IncreaseEnginesPower>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_11" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</IncreaseEnginesPower>
+	<IncreaseWeaponsPower>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_12" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</IncreaseWeaponsPower>
+	<IncreaseSystemsPower>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_14" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</IncreaseSystemsPower>
+	<ResetPowerDistribution>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_13" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</ResetPowerDistribution>
+	<OculusReset>
+		<Primary Device="Keyboard" Key="Key_F12" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</OculusReset>
+	<ToggleCargoScoop>
+		<Primary Device="ThrustMasterWarthogThrottle" Key="Joy_8" />
+		<Secondary Device="{NoDevice}" Key="" />
+		<ToggleOn Value="1" />
+	</ToggleCargoScoop>
+	<EjectAllCargo>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</EjectAllCargo>
+	<LandingGearToggle>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</LandingGearToggle>
+	<EngageSupercruise>
+		<Primary Device="Keyboard" Key="Key_C" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</EngageSupercruise>
+	<Hyperspace>
+		<Primary Device="Keyboard" Key="Key_J" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</Hyperspace>
+	<DisableRotationCorrectToggle>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+		<ToggleOn Value="1" />
+	</DisableRotationCorrectToggle>
+	<UIFocusMode Value="Bindings_FocusModeHold" />
+	<UIFocus>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_3" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</UIFocus>
+	<Pause>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</Pause>
+	<HeadLookToggle>
+		<Primary Device="ThrustMasterWarthogThrottle" Key="Joy_9" />
+		<Secondary Device="{NoDevice}" Key="" />
+		<ToggleOn Value="0" />
+	</HeadLookToggle>
+	<FocusLeftPanel>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</FocusLeftPanel>
+	<FocusRightPanel>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</FocusRightPanel>
+	<FocusRadarPanel>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</FocusRadarPanel>
+	<UI_Up>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_15" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</UI_Up>
+	<UI_Down>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_17" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</UI_Down>
+	<UI_Left>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_18" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</UI_Left>
+	<UI_Right>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_16" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</UI_Right>
+	<UI_Select>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_1" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</UI_Select>
+	<CycleNextPanel>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_4" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CycleNextPanel>
+	<CyclePreviousPanel>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_6" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CyclePreviousPanel>
+	<HeadlookMode Value="Bindings_HeadlookModeAccumulate" />
+	<HeadLookReset>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</HeadLookReset>
+	<HeadLookPitchUp>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_POV1Up" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</HeadLookPitchUp>
+	<HeadLookPitchDown>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_POV1Down" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</HeadLookPitchDown>
+	<HeadLookPitchAxisRaw>
+		<Binding Device="ThrustMasterWarthogThrottle" Key="Joy_YAxis" />
+		<Inverted Value="1" />
+		<Deadzone Value="0.16976912" />
+	</HeadLookPitchAxisRaw>
+	<HeadLookYawLeft>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_POV1Left" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</HeadLookYawLeft>
+	<HeadLookYawRight>
+		<Primary Device="ThrustMasterWarthogJoystick" Key="Joy_POV1Right" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</HeadLookYawRight>
+	<HeadLookYawAxis>
+		<Binding Device="ThrustMasterWarthogThrottle" Key="Joy_XAxis" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.19186236" />
+	</HeadLookYawAxis>
+	<CamPitchAxis>
+		<Binding Device="GamePad" Key="Pad_RStickY" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</CamPitchAxis>
+	<CamPitchUp>
+		<Primary Device="Keyboard" Key="Key_E" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CamPitchUp>
+	<CamPitchDown>
+		<Primary Device="Keyboard" Key="Key_Q" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CamPitchDown>
+	<CamYawAxis>
+		<Binding Device="GamePad" Key="Pad_RStickX" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</CamYawAxis>
+	<CamYawLeft>
+		<Primary Device="Keyboard" Key="Key_A" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CamYawLeft>
+	<CamYawRight>
+		<Primary Device="Keyboard" Key="Key_D" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CamYawRight>
+	<CamTranslateYAxis>
+		<Binding Device="GamePad" Key="Pad_LStickY" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</CamTranslateYAxis>
+	<CamTranslateForward>
+		<Primary Device="Keyboard" Key="Key_UpArrow" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CamTranslateForward>
+	<CamTranslateBackward>
+		<Primary Device="Keyboard" Key="Key_DownArrow" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CamTranslateBackward>
+	<CamTranslateXAxis>
+		<Binding Device="GamePad" Key="Pad_LStickX" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</CamTranslateXAxis>
+	<CamTranslateLeft>
+		<Primary Device="Keyboard" Key="Key_LeftArrow" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CamTranslateLeft>
+	<CamTranslateRight>
+		<Primary Device="Keyboard" Key="Key_RightArrow" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CamTranslateRight>
+	<CamTranslateZAxis>
+		<Binding Device="{NoDevice}" Key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</CamTranslateZAxis>
+	<CamTranslateUp>
+		<Primary Device="Keyboard" Key="Key_W" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CamTranslateUp>
+	<CamTranslateDown>
+		<Primary Device="Keyboard" Key="Key_S" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</CamTranslateDown>
+	<CamZoomAxis>
+		<Binding Device="{NoDevice}" Key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</CamZoomAxis>
+	<CamZoomIn>
+		<Primary Device="GamePad" Key="Pos_Pad_RTrigger" />
+		<Secondary Device="Keyboard" Key="Key_R" />
+	</CamZoomIn>
+	<CamZoomOut>
+		<Primary Device="GamePad" Key="Pos_Pad_LTrigger" />
+		<Secondary Device="Keyboard" Key="Key_F" />
+	</CamZoomOut>
+	<CamTranslateZHold>
+		<Primary Device="GamePad" Key="Pad_X" />
+		<Secondary Device="{NoDevice}" Key="" />
+		<ToggleOn Value="0" />
+	</CamTranslateZHold>
+</Root>

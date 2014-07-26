@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+@import '_settings';
+@import 'foundation/scss/foundation';
+
+
+body {
+  background: #d4d4d4 url("../images/background.png");
+  font-family: sans-serif; }
+
+h1 {
+  color: #444;
+  font-weight: bold;
+  //font-size: 32px;
+  letter-spacing: -1px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
+  margin: 0;
+}
+
+p {
+  color: #444;
+  margin-bottom:1em;
+}
+
+.doc {
+  font-size: 14px;
+  margin: 0; }
+  .doc:before,
+  .doc:after {
+    opacity: .2;
+    padding: 6px;
+    font-style: normal;
+    position: relative;
+    content: "•"; }
+  .doc a {
+    color: rgba(0, 0, 0, 0.3); }
+    .doc a:hover {
+      color: #666; }
+
+
+.table-binds {
+  float:left;
+  th, td {
+    font-size: 12px;
+  }
+}
+
+#instructions {
+  margin-bottom: 1em;
+}
+
+#config {
+  .button {
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding:.25em .5em;
+  }
+}
+
+.controller-360 {
+  background: image-url('./controllers/360.png') 0 98px no-repeat;
+}

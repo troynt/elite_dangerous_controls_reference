@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Root>
+	<GamePad>
+		<PID>028E</PID><VID>045E</VID>		
+		<Alternative>
+			<PID>028F</PID><VID>045E</VID>
+		</Alternative>
+		<Alternative>
+			<PID>02A1</PID><VID>045E</VID>
+		</Alternative>
+		<Alternative>
+			<PID>4716</PID><VID>0738</VID>
+		</Alternative>
+		<Alternative>
+			<PID>0213</PID><VID>0E6F</VID>
+		</Alternative>
+	</GamePad>
+	
+	<BlackWidow>						<PID>0317</PID>		<VID>07B5</VID>		</BlackWidow>
+	<SaitekAV8R03>						<PID>0C28</PID>		<VID>06A3</VID>		</SaitekAV8R03>
+	<SaitekX55Joystick>					<PID>2215</PID>		<VID>0738</VID>		</SaitekX55Joystick>
+	<SaitekX55Throttle>					<PID>A215</PID>		<VID>0738</VID>		</SaitekX55Throttle>
+	<SaitekX52Pro>						<PID>0762</PID>		<VID>06A3</VID>		</SaitekX52Pro>
+	<SaitekX52>							<PID>075C</PID>		<VID>06A3</VID>		
+		<Alternative>
+										<PID>0255</PID>		<VID>06A3</VID>
+		</Alternative>		
+	</SaitekX52>
+	<LogitechG940Pedals>				<PID>C2AA</PID>		<VID>046D</VID>		</LogitechG940Pedals>
+	<LogitechG940Joystick>				<PID>C2A8</PID>		<VID>046D</VID>		</LogitechG940Joystick>
+	<LogitechG940Throttle>				<PID>C2A9</PID>		<VID>046D</VID>		</LogitechG940Throttle>
+	<ThrustMasterWarthogJoystick>		<PID>0402</PID>		<VID>044F</VID>		</ThrustMasterWarthogJoystick>
+	<ThrustMasterWarthogThrottle>		<PID>0404</PID>		<VID>044F</VID>		</ThrustMasterWarthogThrottle>
+	<ThrustMasterWarthogCombined>		<PID>FFFF</PID>		<VID>044F</VID>		</ThrustMasterWarthogCombined>
+	<SaitekFLY5>						<PID>1302</PID>		<VID>0738</VID>		</SaitekFLY5>
+	<ThrustMasterTFlightHOTASX>			<PID>B108</PID>		<VID>044f</VID>		</ThrustMasterTFlightHOTASX>
+	<T16000M>							<PID>B10A</PID>		<VID>044F</VID>		</T16000M>
+	<TMwTARGET>    						<PID>FFFF</PID>    	<VID>044F</VID>    	</TMwTARGET>
+	<LogitechExtreme3DPro>				<PID>C215</PID>		<VID>046D</VID>		</LogitechExtreme3DPro>
+	<GioteckPS3WiredController>			<PID>C121</PID>		<VID>25F0</VID>		</GioteckPS3WiredController>
+	<SaitekX45>							<PID>053C</PID>		<VID>06A3</VID>		</SaitekX45>
+	<EDTracker>							<PID>8037</PID>		<VID>2341</VID>		</EDTracker>
+	<Logitech710WirelessGamepad>		<PID>C219</PID>		<VID>046D</VID>		</Logitech710WirelessGamepad>
+	<LogitechWingManStrikeForce3D>		<PID>C285</PID>		<VID>046D</VID>		</LogitechWingManStrikeForce3D>
+	<SaitekP2600RumbleForce>			<PID>5F0D</PID>		<VID>06A3</VID>		</SaitekP2600RumbleForce>
+	<SaitekP2500RumbleForce>			<PID>FF0C</PID>		<VID>06A3</VID>		</SaitekP2500RumbleForce>
+	<SaitekCyborgEvoWireless>			<PID>353E</PID>		<VID>06A3</VID>		</SaitekCyborgEvoWireless>
+	<SaitekProFlightCombatRudderPedals>	<PID>0764</PID>		<VID>06A3</VID>		</SaitekProFlightCombatRudderPedals>
+	<SaitekProFlightRudderPedals>		<PID>0763</PID>		<VID>06A3</VID>		</SaitekProFlightRudderPedals>
+	<vJoy>								<PID>BEAD</PID>		<VID>1234</VID>		</vJoy>
+	<CHProThrottle1>					<PID>00F1</PID>		<VID>068E</VID>		</CHProThrottle1>
+	<CHProThrottle2>					<PID>C0F1</PID>		<VID>068E</VID>		</CHProThrottle2>
+	<CHFighterStick>					<PID>00F3</PID>		<VID>068E</VID>		</CHFighterStick>
+	<CHProPedals>						<PID>C0F2</PID>		<VID>068E</VID>		</CHProPedals>
+	<CHCombatStick>						<PID>C0F4</PID>		<VID>068E</VID>		</CHCombatStick>
+	<TrustPredator>						<PID>0003</PID>		<VID>0E8F</VID>		</TrustPredator>
+	<Playstation3Controller>			<PID>0268</PID>		<VID>054C</VID>		</Playstation3Controller>
+	<DS4>								<PID>05C4</PID>		<VID>054C</VID>		</DS4>
+	<SaitekST290Pro>					<PID>0460</PID>		<VID>06A3</VID>		</SaitekST290Pro>
+</Root>

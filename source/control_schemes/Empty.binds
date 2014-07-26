@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Root>
+	<YawAxis>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</YawAxis>
+	<YawLeftButton>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</YawLeftButton>
+	<YawRightButton>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</YawRightButton>
+	<YawToRollMode Value="Bindings_YawIntoRollTime" />
+	<YawToRollSensitivity Value="0.40000000" />
+	<YawToRollButton>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+		<ToggleOn Value="0" />
+	</YawToRollButton>
+	<RollAxis>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</RollAxis>
+	<RollLeftButton>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</RollLeftButton>
+	<RollRightButton>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</RollRightButton>
+	<PitchAxis>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</PitchAxis>
+	<PitchUpButton>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</PitchUpButton>
+	<PitchDownButton>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</PitchDownButton>
+	<MouseMode Value="" />
+	<MouseSensitivity Value="1.00000000" />
+	<MouseDeadzone Value="0.04742857" />
+	<LateralThrust>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</LateralThrust>
+	<LeftThrustButton>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</LeftThrustButton>
+	<RightThrustButton>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</RightThrustButton>
+	<VerticalThrust>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</VerticalThrust>
+	<UpThrustButton>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</UpThrustButton>
+	<DownThrustButton>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</DownThrustButton>
+	<AheadThrust>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</AheadThrust>
+	<ForwardThrustButton>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</ForwardThrustButton>
+	<BackwardThrustButton>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</BackwardThrustButton>
+	<ThrottleRange Value="" />
+	<ThrottleAxis>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</ThrottleAxis>
+	<ToggleReverseThrottleInput>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+		<ToggleOn Value="1" />
+	</ToggleReverseThrottleInput>
+	<ThrottleIncrement Value="0.00000000" />
+	<ForwardKey>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</ForwardKey>
+	<BackwardKey>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</BackwardKey>
+	<SetSpeedMinus100>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</SetSpeedMinus100>
+	<SetSpeedMinus75>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</SetSpeedMinus75>
+	<SetSpeedMinus50>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</SetSpeedMinus50>
+	<SetSpeedMinus25>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</SetSpeedMinus25>
+	<SetSpeedZero>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</SetSpeedZero>
+	<SetSpeed25>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</SetSpeed25>
+	<SetSpeed50>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</SetSpeed50>
+	<SetSpeed75>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</SetSpeed75>
+	<SetSpeed100>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</SetSpeed100>
+	<YawAxis_Landing>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</YawAxis_Landing>
+	<YawLeftButton_Landing>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</YawLeftButton_Landing>
+	<YawRightButton_Landing>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</YawRightButton_Landing>
+	<YawToRollMode_Landing Value="" />
+	<PitchAxis_Landing>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</PitchAxis_Landing>
+	<PitchUpButton_Landing>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</PitchUpButton_Landing>
+	<PitchDownButton_Landing>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</PitchDownButton_Landing>
+	<RollAxis_Landing>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</RollAxis_Landing>
+	<RollLeftButton_Landing>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</RollLeftButton_Landing>
+	<RollRightButton_Landing>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</RollRightButton_Landing>
+	<LateralThrust_Landing>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</LateralThrust_Landing>
+	<LeftThrustButton_Landing>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</LeftThrustButton_Landing>
+	<RightThrustButton_Landing>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</RightThrustButton_Landing>
+	<VerticalThrust_Landing>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</VerticalThrust_Landing>
+	<UpThrustButton_Landing>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</UpThrustButton_Landing>
+	<DownThrustButton_Landing>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</DownThrustButton_Landing>
+	<AheadThrust_Landing>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</AheadThrust_Landing>
+	<ForwardThrustButton_Landing>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</ForwardThrustButton_Landing>
+	<BackwardThrustButton_Landing>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</BackwardThrustButton_Landing>
+	<ToggleFlightAssist>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+		<ToggleOn Value="0" />
+	</ToggleFlightAssist>
+	<UseBoostJuice>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</UseBoostJuice>
+	<SelectTarget>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</SelectTarget>
+	<CycleNextTarget>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CycleNextTarget>
+	<CyclePreviousTarget>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CyclePreviousTarget>
+	<SelectHighestThreat>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</SelectHighestThreat>
+	<CycleNextHostileTarget>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CycleNextHostileTarget>
+	<CyclePreviousHostileTarget>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CyclePreviousHostileTarget>
+	<CycleNextSubsystem>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CycleNextSubsystem>
+	<CyclePreviousSubsystem>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CyclePreviousSubsystem>
+	<GunsightSystem Value="Bindings_TraditionalGunsights" />
+	<PrimaryFire>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</PrimaryFire>
+	<SecondaryFire>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</SecondaryFire>
+	<CycleFireGroupNext>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CycleFireGroupNext>
+	<CycleFireGroupPrevious>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CycleFireGroupPrevious>
+	<DeployHardpointToggle>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</DeployHardpointToggle>
+	<DeployHardpointsOnFire Value="1" />
+	<ToggleButtonUpInput>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+		<ToggleOn Value="1" />
+	</ToggleButtonUpInput>
+	<DeployHeatSink>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</DeployHeatSink>
+	<ShipSpotLightToggle>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</ShipSpotLightToggle>
+	<RadarIncreaseRange>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</RadarIncreaseRange>
+	<RadarDecreaseRange>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</RadarDecreaseRange>
+	<IncreaseEnginesPower>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</IncreaseEnginesPower>
+	<IncreaseWeaponsPower>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</IncreaseWeaponsPower>
+	<IncreaseSystemsPower>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</IncreaseSystemsPower>
+	<ResetPowerDistribution>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</ResetPowerDistribution>
+	<OculusReset>
+		<Primary Device="{NoDevice}" Key="Key_F12" />
+		<Secondary Device="{NoDevice}" key="" />
+	</OculusReset>
+	<ToggleCargoScoop>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+		<ToggleOn Value="1" />
+	</ToggleCargoScoop>
+	<EjectAllCargo>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</EjectAllCargo>
+	<LandingGearToggle>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</LandingGearToggle>
+	<EngageSupercruise>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</EngageSupercruise>
+	<Hyperspace>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</Hyperspace>
+	<DisableRotationCorrectToggle>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+		<ToggleOn Value="1" />
+	</DisableRotationCorrectToggle>
+	<UIFocusMode Value="Bindings_FocusModeHold" />
+	<UIFocus>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</UIFocus>
+	<Pause>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</Pause>
+	<HeadLookToggle>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+		<ToggleOn Value="1" />
+	</HeadLookToggle>
+	<FocusLeftPanel>
+		<Primary Device="{NoDevice}" Key="Key_1" />
+		<Secondary Device="{NoDevice}" key="" />
+	</FocusLeftPanel>
+	<FocusRightPanel>
+		<Primary Device="{NoDevice}" Key="Key_3" />
+		<Secondary Device="{NoDevice}" key="" />
+	</FocusRightPanel>
+	<FocusRadarPanel>
+		<Primary Device="{NoDevice}" Key="Key_2" />
+		<Secondary Device="{NoDevice}" key="" />
+	</FocusRadarPanel>
+	<UI_Up>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</UI_Up>
+	<UI_Down>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</UI_Down>
+	<UI_Left>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</UI_Left>
+	<UI_Right>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</UI_Right>
+	<UI_Select>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</UI_Select>
+	<CycleNextPanel>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CycleNextPanel>
+	<CyclePreviousPanel>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CyclePreviousPanel>
+	<HeadlookMode Value="Bindings_HeadlookModeAccumulate" />
+	<HeadLookReset>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</HeadLookReset>
+	<HeadLookPitchUp>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</HeadLookPitchUp>
+	<HeadLookPitchDown>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</HeadLookPitchDown>
+	<HeadLookPitchAxisRaw>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</HeadLookPitchAxisRaw>
+	<HeadLookYawLeft>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</HeadLookYawLeft>
+	<HeadLookYawRight>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</HeadLookYawRight>
+	<HeadLookYawAxis>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</HeadLookYawAxis>
+	<CamPitchAxis>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</CamPitchAxis>
+	<CamPitchUp>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CamPitchUp>
+	<CamPitchDown>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CamPitchDown>
+	<CamYawAxis>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</CamYawAxis>
+	<CamYawLeft>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CamYawLeft>
+	<CamYawRight>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CamYawRight>
+	<CamTranslateYAxis>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</CamTranslateYAxis>
+	<CamTranslateForward>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CamTranslateForward>
+	<CamTranslateBackward>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CamTranslateBackward>
+	<CamTranslateXAxis>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</CamTranslateXAxis>
+	<CamTranslateLeft>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CamTranslateLeft>
+	<CamTranslateRight>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CamTranslateRight>
+	<CamTranslateZAxis>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</CamTranslateZAxis>
+	<CamTranslateUp>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CamTranslateUp>
+	<CamTranslateDown>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CamTranslateDown>
+	<CamZoomAxis>
+		<Binding Device="{NoDevice}" key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</CamZoomAxis>
+	<CamZoomIn>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CamZoomIn>
+	<CamZoomOut>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+	</CamZoomOut>
+	<CamTranslateZHold>
+		<Primary Device="{NoDevice}" key="" />
+		<Secondary Device="{NoDevice}" key="" />
+		<ToggleOn Value="0" />
+	</CamTranslateZHold>
+</Root>
