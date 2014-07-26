@@ -3,6 +3,8 @@ set :protocol, 'http://'
 set :host, 'example.com'
 set :port, 80
 
+set :relative_links, true
+
 ###
 # Compass
 ###
@@ -26,7 +28,7 @@ compass_config do |config|
   # output_style = :expanded or :nested or :compact or :compressed
 
   # To enable relative paths to assets via compass helper functions. Uncomment:
-  # relative_assets = true
+  relative_assets = true
 
   # To disable debugging comments that display the original location of your selectors. Uncomment:
   # line_comments = false
@@ -106,7 +108,7 @@ configure :build do
   activate :asset_hash
 
   # Use relative URLs
-  # activate :relative_assets
+  activate :relative_assets
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
