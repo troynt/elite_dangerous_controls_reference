@@ -57,4 +57,6 @@
 	<Playstation3Controller>			<PID>0268</PID>		<VID>054C</VID>		</Playstation3Controller>
 	<DS4>								<PID>05C4</PID>		<VID>054C</VID>		</DS4>
 	<SaitekST290Pro>					<PID>0460</PID>		<VID>06A3</VID>		</SaitekST290Pro>
+	<XterminatorDualControl>			<PID>3001</PID>		<VID>047D</VID>		</XterminatorDualControl>
+	<SideWinderForceFeedback2>			<PID>001B</PID>		<VID>045E</VID></SideWinderForceFeedback2>
 </Root>
