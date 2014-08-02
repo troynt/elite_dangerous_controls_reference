@@ -46,9 +46,13 @@
 		<Primary Device="{NoDevice}" key="" />
 		<Secondary Device="{NoDevice}" key="" />
 	</PitchDownButton>
-	<MouseMode Value="" />
+	<MouseXMode Value="" />
+	<MouseYMode Value="" />
+	<MouseDecay Value="0" />
+	<MouseHeadlook Value="1" />
 	<MouseSensitivity Value="1.00000000" />
-	<MouseDeadzone Value="0.04742857" />
+	<MouseDeadzone Value="0.05" />
+	<MouseLinearity Value="1.0" />
 	<LateralThrust>
 		<Binding Device="{NoDevice}" key="" />
 		<Inverted Value="0" />
@@ -340,10 +344,11 @@
 		<Primary Device="{NoDevice}" key="" />
 		<Secondary Device="{NoDevice}" key="" />
 	</LandingGearToggle>
-	<EngageSupercruise>
-		<Primary Device="{NoDevice}" key="" />
-		<Secondary Device="{NoDevice}" key="" />
-	</EngageSupercruise>
+	<MicrophoneMute>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+		<ToggleOn Value="0" />
+	</MicrophoneMute>
 	<Hyperspace>
 		<Primary Device="{NoDevice}" key="" />
 		<Secondary Device="{NoDevice}" key="" />
@@ -367,18 +372,27 @@
 		<Secondary Device="{NoDevice}" key="" />
 		<ToggleOn Value="1" />
 	</HeadLookToggle>
+	<HeadlookDefault Value="0" />
 	<FocusLeftPanel>
-		<Primary Device="{NoDevice}" Key="Key_1" />
-		<Secondary Device="{NoDevice}" key="" />
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
 	</FocusLeftPanel>
 	<FocusRightPanel>
-		<Primary Device="{NoDevice}" Key="Key_3" />
-		<Secondary Device="{NoDevice}" key="" />
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
 	</FocusRightPanel>
 	<FocusRadarPanel>
-		<Primary Device="{NoDevice}" Key="Key_2" />
-		<Secondary Device="{NoDevice}" key="" />
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
 	</FocusRadarPanel>
+	<FocusCommsPanel>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</FocusCommsPanel>
+	<QuickCommsPanel>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</QuickCommsPanel>
 	<UI_Up>
 		<Primary Device="{NoDevice}" key="" />
 		<Secondary Device="{NoDevice}" key="" />

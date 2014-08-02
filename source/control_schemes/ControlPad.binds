@@ -23,7 +23,7 @@
 	<RollAxis>
 		<Binding Device="XB360 Pad" Key="Pad_LStickX" />
 		<Inverted Value="0" />
-		<Deadzone Value="0.00000000" />
+		<Deadzone Value="0.15" />
 	</RollAxis>
 	<RollLeftButton>
 		<Primary Device="{NoDevice}" Key="" />
@@ -36,7 +36,7 @@
 	<PitchAxis>
 		<Binding Device="XB360 Pad" Key="Pad_LStickY" />
 		<Inverted Value="0" />
-		<Deadzone Value="0.00000000" />
+		<Deadzone Value="0.15" />
 	</PitchAxis>
 	<PitchUpButton>
 		<Primary Device="{NoDevice}" Key="" />
@@ -46,13 +46,17 @@
 		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</PitchDownButton>
-	<MouseMode Value="" />
+	<MouseXMode Value="" />
+	<MouseYMode Value="" />
+	<MouseDecay Value="0" />
+	<MouseHeadlook Value="1" />
 	<MouseSensitivity Value="1.00000000" />
-	<MouseDeadzone Value="0.04742857" />
+	<MouseDeadzone Value="0.05" />
+	<MouseLinearity Value="1.0" />
 	<LateralThrust>
 		<Binding Device="XB360 Pad" Key="Pad_RStickX" />
 		<Inverted Value="0" />
-		<Deadzone Value="0.00000000" />
+		<Deadzone Value="0.15" />
 	</LateralThrust>
 	<LeftThrustButton>
 		<Primary Device="Keyboard" Key="Key_Q" />
@@ -65,7 +69,7 @@
 	<VerticalThrust>
 		<Binding Device="XB360 Pad" Key="Pad_RStickY" />
 		<Inverted Value="0" />
-		<Deadzone Value="0.00000000" />
+		<Deadzone Value="0.15" />
 	</VerticalThrust>
 	<UpThrustButton>
 		<Primary Device="Keyboard" Key="Key_R" />
@@ -282,7 +286,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</CycleFireGroupPrevious>
 	<DeployHardpointToggle>
-		<Primary Device="Keyboard" Key="Key_Enter" />
+		<Primary Device="Keyboard" Key="Key_U" />
 		<Secondary Device="XB360 Pad" Key="Pad_Back" />
 	</DeployHardpointToggle>
 	<DeployHardpointsOnFire Value="1" />
@@ -340,10 +344,11 @@
 		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</LandingGearToggle>
-	<EngageSupercruise>
-		<Primary Device="Keyboard" Key="Key_C" />
+	<MicrophoneMute>
+		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
-	</EngageSupercruise>
+		<ToggleOn Value="0" />
+	</MicrophoneMute>
 	<Hyperspace>
 		<Primary Device="Keyboard" Key="Key_J" />
 		<Secondary Device="{NoDevice}" Key="" />
@@ -367,18 +372,27 @@
 		<Secondary Device="{NoDevice}" Key="" />
 		<ToggleOn Value="1" />
 	</HeadLookToggle>
+	<HeadlookDefault Value="0" />
 	<FocusLeftPanel>
 		<Primary Device="Keyboard" Key="Key_1" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</FocusLeftPanel>
 	<FocusRightPanel>
-		<Primary Device="Keyboard" Key="Key_3" />
+		<Primary Device="Keyboard" Key="Key_4" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</FocusRightPanel>
 	<FocusRadarPanel>
-		<Primary Device="Keyboard" Key="Key_2" />
+		<Primary Device="Keyboard" Key="Key_3" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</FocusRadarPanel>
+	<FocusCommsPanel>
+		<Primary Device="Keyboard" Key="Key_2" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</FocusCommsPanel>
+	<QuickCommsPanel>
+		<Primary Device="Keyboard" Key="Key_Enter" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</QuickCommsPanel>
 	<UI_Up>
 		<Primary Device="Keyboard" Key="Key_W" />
 		<Secondary Device="XB360 Pad" Key="Pad_DPadUp" />
@@ -423,7 +437,7 @@
 	<HeadLookPitchAxisRaw>
 		<Binding Device="XB360 Pad" Key="Pad_RStickY" />
 		<Inverted Value="0" />
-		<Deadzone Value="0.00000000" />
+		<Deadzone Value="0.15" />
 	</HeadLookPitchAxisRaw>
 	<HeadLookYawLeft>
 		<Primary Device="{NoDevice}" Key="" />
@@ -436,58 +450,58 @@
 	<HeadLookYawAxis>
 		<Binding Device="XB360 Pad" Key="Pad_RStickX" />
 		<Inverted Value="0" />
-		<Deadzone Value="0.00000000" />
+		<Deadzone Value="0.15" />
 	</HeadLookYawAxis>
 	<CamPitchAxis>
 		<Binding Device="GamePad" Key="Pad_RStickY" />
 		<Inverted Value="0" />
-		<Deadzone Value="0.00000000" />
+		<Deadzone Value="0.15" />
 	</CamPitchAxis>
 	<CamPitchUp>
-		<Primary Device="Keyboard" Key="Key_E" />
+		<Primary Device="Keyboard" Key="Key_T" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</CamPitchUp>
 	<CamPitchDown>
-		<Primary Device="Keyboard" Key="Key_Q" />
+		<Primary Device="Keyboard" Key="Key_G" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</CamPitchDown>
 	<CamYawAxis>
 		<Binding Device="GamePad" Key="Pad_RStickX" />
 		<Inverted Value="0" />
-		<Deadzone Value="0.00000000" />
+		<Deadzone Value="0.15" />
 	</CamYawAxis>
 	<CamYawLeft>
-		<Primary Device="Keyboard" Key="Key_A" />
+		<Primary Device="Keyboard" Key="Key_Q" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</CamYawLeft>
 	<CamYawRight>
-		<Primary Device="Keyboard" Key="Key_D" />
+		<Primary Device="Keyboard" Key="Key_E" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</CamYawRight>
 	<CamTranslateYAxis>
 		<Binding Device="GamePad" Key="Pad_LStickY" />
 		<Inverted Value="0" />
-		<Deadzone Value="0.00000000" />
+		<Deadzone Value="0.15" />
 	</CamTranslateYAxis>
 	<CamTranslateForward>
-		<Primary Device="Keyboard" Key="Key_UpArrow" />
+		<Primary Device="Keyboard" Key="Key_W" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</CamTranslateForward>
 	<CamTranslateBackward>
-		<Primary Device="Keyboard" Key="Key_DownArrow" />
+		<Primary Device="Keyboard" Key="Key_S" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</CamTranslateBackward>
 	<CamTranslateXAxis>
 		<Binding Device="GamePad" Key="Pad_LStickX" />
 		<Inverted Value="0" />
-		<Deadzone Value="0.00000000" />
+		<Deadzone Value="0.15" />
 	</CamTranslateXAxis>
 	<CamTranslateLeft>
-		<Primary Device="Keyboard" Key="Key_LeftArrow" />
+		<Primary Device="Keyboard" Key="Key_A" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</CamTranslateLeft>
 	<CamTranslateRight>
-		<Primary Device="Keyboard" Key="Key_RightArrow" />
+		<Primary Device="Keyboard" Key="Key_D" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</CamTranslateRight>
 	<CamTranslateZAxis>
@@ -496,11 +510,11 @@
 		<Deadzone Value="0.00000000" />
 	</CamTranslateZAxis>
 	<CamTranslateUp>
-		<Primary Device="Keyboard" Key="Key_W" />
+		<Primary Device="Keyboard" Key="Key_R" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</CamTranslateUp>
 	<CamTranslateDown>
-		<Primary Device="Keyboard" Key="Key_S" />
+		<Primary Device="Keyboard" Key="Key_F" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</CamTranslateDown>
 	<CamZoomAxis>
@@ -510,11 +524,11 @@
 	</CamZoomAxis>
 	<CamZoomIn>
 		<Primary Device="GamePad" Key="Pos_Pad_RTrigger" />
-		<Secondary Device="Keyboard" Key="Key_R" />
+		<Secondary Device="Keyboard" Key="Key_Z" />
 	</CamZoomIn>
 	<CamZoomOut>
 		<Primary Device="GamePad" Key="Pos_Pad_LTrigger" />
-		<Secondary Device="Keyboard" Key="Key_F" />
+		<Secondary Device="Keyboard" Key="Key_X" />
 	</CamZoomOut>
 	<CamTranslateZHold>
 		<Primary Device="GamePad" Key="Pad_X" />
